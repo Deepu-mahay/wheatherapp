@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.form-style{
+  
+    border-radius:30px;
+    border-color:rgb(0, 120, 136);
+    margin-bottom:10px;
+}
+body{
+    background-image:url(Weather-Desktop-Wallpaper.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+}
+.charts{
+    color:black;
+    /* background-color:white; */
+    background-image: url(Weather-Desktop-Wallpaper.jpg)
+}
+.card1{
+    width: 200px;
+    height: 200px;
+    background-image: url(Weather-Desktop-Wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+    margin:10px;
+    border: 1px solid black
+
+
+}
+.color{
+    color:antiquewhite
+}

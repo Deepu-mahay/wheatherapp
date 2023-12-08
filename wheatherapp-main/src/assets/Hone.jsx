@@ -84,7 +84,7 @@ const options = {
 try {
 	const response = await axios.request(options);
 	console.log(response.data);
-  // repeat()
+   repeat()
   setweek(response.data.forecast)
 } catch (error) {
   console.error(error);
